@@ -8,7 +8,13 @@
 
 ## Business Case:
 
-Cada fin de mes, dentro del área de facturación, se registra el calendario de facturación a un módulo del ERP comercial de la empresa, el calendario contiene las fechas de cobro de recibo de luz de los clientes y otras fechas de importancia; el proceso no es complicado pero es manual y se de la siguiente manera:
+Cada fin de mes, dentro del área de facturación, se registra el calendario de facturación a un módulo del ERP comercial de la empresa, el calendario contiene las fechas de cobro de recibo de luz de los clientes y otras fechas de importancia.
+
+El formato del calendario es el siguientes:
+
+![image](https://user-images.githubusercontent.com/31372472/140241760-1e25e45c-cab7-43c5-a31b-411a841522a8.png)
+
+El proceso no es complicado pero es manual y se de la siguiente manera:
 
 - Se ingresa al módulo "Administración de Calendario".
 - Se coloca el mes de carga de calendario.
@@ -32,7 +38,3 @@ La primera solución que se puede venir a la mente es una carga masiva del calen
 Es por esta razón que se opta por la tecnología del RPA.
 
 Nota: Para facilitar los conceptos vamos a indicar que un "sector" es una agrupación de clientes; y el total de clientes esta dividido en 55 sectores.
-
-Imagen del formato del calendario del facturación:
-
-![image](https://user-images.githubusercontent.com/31372472/140241760-1e25e45c-cab7-43c5-a31b-411a841522a8.png)
