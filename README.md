@@ -29,10 +29,12 @@ El proceso no es complicado y se da de manera manual y se realiza de la siguient
   * fecha de lectura que viene del excel.
   * fecha de facturación que viene del excel.
   * fecha de Reparto que viene del excel.
+
 ![image](https://user-images.githubusercontent.com/31372472/140243323-cccf234a-78bf-4c3d-ae02-92c26aac331b.png)
 
 - Damos guardar y nos regresa a la pantalla inicial y debemos ir a la opción "Editar" en donde se nos levanta otra venta pop up.
 - En esta ventana vamos a la opción "Editar Fecha de Vencimiento" y colocamos la fecha de vencimiento que se encuentra en el excel; y finalizamos guardando.
+![image](https://user-images.githubusercontent.com/31372472/140243545-6e2dfffa-0b12-4640-a632-8c7cba8f4255.png)
 
 El proceso descrito, líneas arriba, es para un sector y toma aproximadamente 1 minuto con 50 segundos; el calendario contiene la información de 55 sectores, es decir, si el proceso se da limpiamente este tomaría una 1 con 40 minutos.
 
