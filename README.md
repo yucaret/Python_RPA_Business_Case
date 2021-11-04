@@ -52,4 +52,5 @@ Nota: Para facilitar los conceptos vamos a indicar que un "sector" es una agrupa
 
 - El programa utiliza el link del ERP que es de uso exclusivo de la organización para la cual laboro, pero si podrán visualizar el programa en python
 - En el programa podrán observar que la solución esta configurada para la resolución de la computadora en la que la he desarrollado, por lo que si se ejecuta podría no coincidir con el tamaño de sus maquinas.
+- El proceso de RPA debe de recibir un input que es la agenda de facturación, el cual esta en la carpeta 1_input.
 - Aquí un link del video de como funciona la solución: https://www.youtube.com/watch?v=OClEPz8TYfA&t=3s
