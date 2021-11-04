@@ -1,4 +1,4 @@
-# Python RPA Business Case: Registro del Calendario de Facturación al ERP Comercial
+# RPA: Registro del Calendario de Facturación al ERP Comercial
 
 ## Requisitos:
 
