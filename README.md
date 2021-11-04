@@ -19,15 +19,18 @@ El proceso no es complicado y se da de manera manual y se realiza de la siguient
 - Se ingresa al módulo "Administración de Calendario".
 ![image](https://user-images.githubusercontent.com/31372472/140242532-11fa59da-147a-481e-a96a-fa1fc44f4d8d.png)
 
-- Se coloca el mes de carga de calendario.
+- Se coloca el mes de carga de calendario y el nivel de carga que es por sector.
 ![image](https://user-images.githubusercontent.com/31372472/140242798-2668e2ba-190a-47dc-9a9e-f9ae9614e8f8.png)
 
-- Se indica el nivel de registros a cargar, que es por Sector.
 - Se muestra una nueva ventana donde debemos colocar el número de Sector al cual vamos a registrar su fechas del calendario.
+![image](https://user-images.githubusercontent.com/31372472/140243061-cb474283-fa2e-447f-8d16-a728033e5c72.png)
+
 - Se levanta una ventana pop up donde para el sector indicado se debe de colocar:
   * fecha de lectura que viene del excel.
   * fecha de facturación que viene del excel.
   * fecha de Reparto que viene del excel.
+![image](https://user-images.githubusercontent.com/31372472/140243323-cccf234a-78bf-4c3d-ae02-92c26aac331b.png)
+
 - Damos guardar y nos regresa a la pantalla inicial y debemos ir a la opción "Editar" en donde se nos levanta otra venta pop up.
 - En esta ventana vamos a la opción "Editar Fecha de Vencimiento" y colocamos la fecha de vencimiento que se encuentra en el excel; y finalizamos guardando.
 
