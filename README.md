@@ -14,7 +14,7 @@ El formato del calendario es el siguientes:
 
 ![image](https://user-images.githubusercontent.com/31372472/140241760-1e25e45c-cab7-43c5-a31b-411a841522a8.png)
 
-El proceso no es complicado pero es manual y se de la siguiente manera:
+El proceso no es complicado y se da de manera manual y se realiza de la siguiente manera:
 
 - Se ingresa al módulo "Administración de Calendario".
 - Se coloca el mes de carga de calendario.
