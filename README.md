@@ -47,3 +47,9 @@ La primera solución que se puede venir a la mente es una carga masiva del calen
 Es por esta razón que se opta por la tecnología del RPA.
 
 Nota: Para facilitar los conceptos vamos a indicar que un "sector" es una agrupación de clientes; y el total de clientes esta dividido en 55 sectores.
+
+## Consideraciones de la solución:
+
+- El programa utiliza el link del ERP que es de uso exclusivo de la organización para la cual laboro, pero si podrán visualizar el programa en python
+- En el programa podrán observar que la solución esta configurada para la resolución de la computadora en la que la he desarrollado, por lo que si se ejecuta podría no coincidir con el tamaño de sus maquinas.
+- Aquí un link del video de como funciona la solución: https://www.youtube.com/watch?v=OClEPz8TYfA&t=3s
