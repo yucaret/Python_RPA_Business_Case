@@ -20,4 +20,6 @@ Cada fin de mes se debe de registrar el calendario de facturación, que se encue
 - Damos guardar y nos regresa a la pantalla inicial y debemos ir a la opción "Editar" en donde se nos levanta otra venta pop up.
 - En esta ventana vamos a la opción "Editar Fecha de Vencimiento" y colocamos la fecha de vencimiento que se encuentra en el excel; y finalizamos guardando
 
-Este proceso para un sector toma aproximadamente un minuto con 50 segundos; el excel que contiene el calendario contiene la información de 55 sctores, es decir, si el proceso se da limpiamente este tomaría una hora con cuarenta minutos.
+Este proceso para un sector toma aproximadamente un minuto con 50 segundos; el excel que contiene el calendario contiene la información de 55 sectores, es decir, si el proceso se da limpiamente este tomaría una hora con cuarenta minutos.
+
+Nota: Para facilitar los conceptos vamos a indicar que un "sector" es una agrupación de clientes; y el total de clientes esta dividido en 55 sectores.
