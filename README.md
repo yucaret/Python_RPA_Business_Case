@@ -1,4 +1,4 @@
-# RPA: Registro del Calendario de Facturación al ERP Comercial
+# RPA: Registro del Calendario de Facturación en el ERP Comercial
 
 ## Requisitos:
 
