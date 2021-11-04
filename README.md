@@ -8,7 +8,8 @@
 
 ## Business Case:
 
-Cada fin de mes se debe de registrar el calendario de facturación, que se encuentra en un archivo excel, a un módulo del ERP comercial, el proceso no es complicado y se de la siguiente manera:
+Cada fin de mes, dentro del área de facturación, se registra el calendario de facturación a un módulo del ERP comercial de la empresa, el calendario contiene las fechas de cobro de recibo de luz de los clientes y otras fechas de importancia; el proceso no es complicado y se de la siguiente manera:
+
 - Se ingresa al módulo "Administración de Calendario".
 - Se coloca el mes de carga de calendario
 - Se indica el nivel de registros a cargar, que es por Sector.
@@ -20,6 +21,10 @@ Cada fin de mes se debe de registrar el calendario de facturación, que se encue
 - Damos guardar y nos regresa a la pantalla inicial y debemos ir a la opción "Editar" en donde se nos levanta otra venta pop up.
 - En esta ventana vamos a la opción "Editar Fecha de Vencimiento" y colocamos la fecha de vencimiento que se encuentra en el excel; y finalizamos guardando
 
-Este proceso para un sector toma aproximadamente un minuto con 50 segundos; el excel que contiene el calendario contiene la información de 55 sectores, es decir, si el proceso se da limpiamente este tomaría una hora con cuarenta minutos.
+El proceso descrito, líneas arriba, es para un sector y toma aproximadamente 1 minuto con 50 segundos; el calendario contiene la información de 55 sectores, es decir, si el proceso se da limpiamente este tomaría una 1 con 40 minutos.
+
+La problemática no radíca en el registro de un sector, sino en el registro de todos los sectores, el cual en pleno proceso se vuelve tedioso y cansado para el usuario.
+
+Equivocarse en el registro de un sector genera un impacto muy grande que perjudica a mas de 280 mil clientes y ni que decir de las perdidas financieras de la empresa.
 
 Nota: Para facilitar los conceptos vamos a indicar que un "sector" es una agrupación de clientes; y el total de clientes esta dividido en 55 sectores.
