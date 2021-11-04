@@ -20,6 +20,8 @@ El proceso no es complicado y se da de manera manual y se realiza de la siguient
 ![image](https://user-images.githubusercontent.com/31372472/140242532-11fa59da-147a-481e-a96a-fa1fc44f4d8d.png)
 
 - Se coloca el mes de carga de calendario.
+![image](https://user-images.githubusercontent.com/31372472/140242798-2668e2ba-190a-47dc-9a9e-f9ae9614e8f8.png)
+
 - Se indica el nivel de registros a cargar, que es por Sector.
 - Se muestra una nueva ventana donde debemos colocar el número de Sector al cual vamos a registrar su fechas del calendario.
 - Se levanta una ventana pop up donde para el sector indicado se debe de colocar:
