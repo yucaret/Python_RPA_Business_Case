@@ -17,6 +17,8 @@ El formato del calendario es el siguientes:
 El proceso no es complicado y se da de manera manual y se realiza de la siguiente manera:
 
 - Se ingresa al módulo "Administración de Calendario".
+![image](https://user-images.githubusercontent.com/31372472/140242532-11fa59da-147a-481e-a96a-fa1fc44f4d8d.png)
+
 - Se coloca el mes de carga de calendario.
 - Se indica el nivel de registros a cargar, que es por Sector.
 - Se muestra una nueva ventana donde debemos colocar el número de Sector al cual vamos a registrar su fechas del calendario.
